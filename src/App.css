@@ -1,0 +1,7 @@
+.toDoList-main{
+    justify-items: center;
+    border: 2px solid black;
+    width: 50%;
+    margin: 10px auto;
+    padding: 0;
+}

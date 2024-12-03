@@ -1,0 +1,9 @@
+.toDoList-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.finish-btn{
+    background-color: orange;
+    margin: 2px;
+}

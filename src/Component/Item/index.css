@@ -1,0 +1,26 @@
+li{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.list-li{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+label{
+    font-size: large;
+    display: flex;
+    align-items: center;
+}
+.checkbox-input{
+    width: 20px;
+    height: 20px;
+}
+.delete-btn{
+    margin: 2px;
+    background-color: orange;
+}
